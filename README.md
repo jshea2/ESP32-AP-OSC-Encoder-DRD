@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/70780576/211750836-6df9e416-fb22-4ce9-
 ----------
 
 ### Hardware:
-This demo used a FREENOVE ESP32-WROVER-DEV controller with a breadboard and a button on pin 13.
+This demo used a FREENOVE ESP32-WROVER-DEV controller with a breadboard and an Encoder (CLK on pin 33 & DT on pin 15).
 
 <img width="350" alt="Screen Shot 2021-11-21 at 4 17 23 PM" src="https://user-images.githubusercontent.com/70780576/211749180-fe8243b4-5d29-47b6-8f9b-474f2bcb79a2.jpg">
 
